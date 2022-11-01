@@ -225,15 +225,7 @@
     
       /*small smartphone*/
       @media screen and (max-width: 576px) {
-       nav {
-        text-align: center;
-        display: inline-block;
-       }
-
-       ul li {
-        margin-right: 25px;
-       }
-  
+    
         h1 {
           display: flex;
           font-size: 10px;
@@ -244,7 +236,7 @@
           padding: 20px;
           margin-top: 45px;
           text-align: center;
-          margin-left: 15px;
+          padding-left: 65px;
         }
   
         p {
@@ -253,6 +245,7 @@
           margin-left: 200px;
           margin-bottom: 100px;
           justify-content: center;
+          padding-left: 25px;
         }
 
         .section-titles {
