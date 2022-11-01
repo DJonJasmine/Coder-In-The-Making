@@ -127,7 +127,6 @@
   .header nav ul li {
       display: inline-block;
       margin: 50px;
-  
   }
   
   .project-img {
@@ -142,6 +141,7 @@
     filter: none;
     -webkit-filter: grayscale(0);
   }
+
   .project-img:hover::after {
     opacity: 100%;
     transition: opacity ;
@@ -161,10 +161,12 @@
     margin-right: 150px;
     letter-spacing: 2px;
   }
+
   .contact-me {
     margin-bottom: 30px;
     letter-spacing: 7px;
   }
+
   .button {
     background-image: linear-gradient(
       -225deg,
@@ -173,7 +175,8 @@
       #ff1361 67%,
       #4bb0eb 100%
     );
-  }
+  } 
+
   .profile-links {
     word-spacing: 100px;
     margin-top: 45px;
@@ -226,6 +229,10 @@
         text-align: center;
         display: inline-block;
        }
+
+       ul li {
+        margin-right: 25px;
+       }
   
         h1 {
           display: flex;
@@ -237,6 +244,7 @@
           padding: 20px;
           margin-top: 45px;
           text-align: center;
+          margin-left: 15px;
         }
   
         p {
@@ -245,6 +253,10 @@
           margin-left: 200px;
           margin-bottom: 100px;
           justify-content: center;
+        }
+
+        .section-titles {
+          text-align: center;
         }
     
       }
