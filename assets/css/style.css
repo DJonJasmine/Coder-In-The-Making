@@ -33,6 +33,7 @@
   }
   
   h2 {
+  
     font-size: 25px;
     margin-top: 100px;
   }
@@ -174,6 +175,7 @@
    /*tablets*/
   @media screen and (max-width: 992px) {
     h2 {
+  
       padding: 25px;
       margin-top: 100px;
     }
@@ -191,6 +193,7 @@
   
     .header h1 {
       margin-top: 100px;
+      margin-left: 25px;
     } 
   
     .section-titles {
@@ -217,7 +220,9 @@
        }
   
         h1 {
+          display: flex;
           font-size: 10px;
+          text-align: center;
         }
         
         h2 {
@@ -227,10 +232,11 @@
         }
   
         p {
+          display: flex;
           margin-top: 45px;
           margin-left: 200px;
           margin-bottom: 100px;
-          flex: 3;
+          justify-content: center;
         }
     
       }
