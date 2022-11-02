@@ -1,31 +1,38 @@
 ## Name
+
 Portfolio for future employers.
 
 
 ## Description
+
 A webpage built to display skill sets for a full stack development career. This webpage not only displays skills but also a short summary of the developer. Futhermore, the developers projects are listed along with links to the developers outside portfolios.
 
 
 ## Badges
+
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DJonJasmine/Coder-In-The-Making">
 
 <img alt="GitHub" src="https://img.shields.io/github/license/DJonJasmine/Coder-In-The-Making">
 
 
 ## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+
+<img alt="Screenshot of webpage" src="./assets/images/Life-Of-A-New-Coder-Screenshot.png/">
 
 
 ## Usage
+
 Starting at the top of the page, the user has access to navigation links. These links will help you to quickly maneuver to the topic you would like to view. The navigation links has hover affect for the users visual aspects of which links is being chosen. 
 
-<iframe src="https://drive.google.com/file/d/1N2M70zLpqnOTR35FkELxmWz1c1sZQS9q/preview" width="640" height="480"></iframe>
 
 Project images also have a hover affect, giving the images a aesthetic appeal with the knowledge of what image is being chosen. 
 
+
 A contact form can be found for future employers or developers looking ot collaborate with a finish of the submit button matching the webpage theme.
 
+
 More navigation links at the bottom of page, which links to the developers Github and Linkedin profiles.
+
 
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
