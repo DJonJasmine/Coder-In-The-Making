@@ -73,7 +73,7 @@
   input {
     margin-top: 15px;
     margin-bottom: 30px;
-    width: 400px;
+    width: 450px;
   }
   
   .nav-links:hover {
@@ -272,6 +272,13 @@
           text-align: center;
           
         }
+
+        input {
+          margin-top: 15px;
+          margin-bottom: 30px;
+          width: 300px;
+        }
+    
 
         footer {
           margin-left: 45px;

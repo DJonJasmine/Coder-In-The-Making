@@ -29,7 +29,7 @@ Use examples liberally, and show the expected output if you can. It's helpful to
 
 
 ## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+If you come across a bug or just have any feedback, support can be contacted at DJonHarrison94@gmail.com!
 
 
 ## License
