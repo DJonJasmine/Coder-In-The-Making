@@ -241,12 +241,13 @@
         }
   
         p {
-          display: flex;
+          font-size: 15px;
+          display: contents;
           margin-top: 45px;
           margin-left: 200px;
           margin-bottom: 100px;
-          justify-content: center;
-          padding-left: 25px;
+          text-align: center;
+          padding-right: 45px;
         }
 
         .section-titles {
