@@ -1,8 +1,10 @@
 ## Name
-Choose a self-explaining name for your project.
+Portfolio for future employers.
+
 
 ## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+A webpage built to display skill sets for a full stack development career. This webpage not only displays skills but also a short summary of the developer. Futhermore, the developers projects are listed along with links to the developers outside portfolios.
+
 
 ## Badges
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DJonJasmine/Coder-In-The-Making">
@@ -15,6 +17,14 @@ Depending on what you are making, it can be a good idea to include screenshots o
 
 
 ## Usage
+Starting at the top of the page, the user has access to navigation links. These links will help you to quickly maneuver to the topic you would like to view. The navigation links has hover affect for the users visual aspects of which links is being chosen. 
+
+Project images also have a hover affect, giving the images a aesthetic appeal with the knowledge of what image is being chosen. 
+
+A contact form can be found for future employers or developers looking ot collaborate with a finish of the submit button matching the webpage theme.
+
+More navigation links at the bottom of page, which links to the developers Github and Linkedin profiles.
+
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
 
