@@ -29,7 +29,7 @@ Starting at the top of the page, the user has access to navigation links. These 
 
 Project images also have a hover affect, giving the images a aesthetic appeal with the knowledge of what image is being chosen. 
 
-[Life Of A New Coder Project demo.webm](https://user-images.githubusercontent.com/113325442/199607638-6f9e35a0-93a4-4518-89ec-42001e956c57.webm)
+[Life Of A New Coder Project demo.webm](https://user-images.githubusercontent.com/113325442/199608809-379ee152-b800-4b1c-9fb4-a40105abb917.webm)
 
 
 A contact form can be found for future employers or developers looking to collaborate.
