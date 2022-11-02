@@ -24,12 +24,12 @@ A webpage built to display skill sets for a full stack development career. This 
 
 Starting at the top of the page, the user has access to navigation links. These links will help you to quickly maneuver to the topic you would like to view. The navigation links has hover affect for the users visual aspects of which links is being chosen. 
 
-[Life Of A New Coder (1).webm](https://user-images.githubusercontent.com/113325442/199606981-4f0aa689-8b07-4e07-a257-4c3a5476b4ce.webm)
+[Life Of A New Coder Nav demo.webm](https://user-images.githubusercontent.com/113325442/199609309-e62fa88c-b540-44e3-96a5-270790b928f6.webm)
 
 
 Project images also have a hover affect, giving the images a aesthetic appeal with the knowledge of what image is being chosen. 
 
-[Life Of A New Coder Project demo.webm](https://user-images.githubusercontent.com/113325442/199608809-379ee152-b800-4b1c-9fb4-a40105abb917.webm)
+[Life Of A New Coder Project demo.webm](https://user-images.githubusercontent.com/113325442/199609329-2d82fef2-14f3-499e-be8d-12e3c81be4f7.webm)
 
 
 A contact form can be found for future employers or developers looking to collaborate.
