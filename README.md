@@ -24,8 +24,10 @@ A webpage built to display skill sets for a full stack development career. This 
 
 Starting at the top of the page, the user has access to navigation links. These links will help you to quickly maneuver to the topic you would like to view. The navigation links has hover affect for the users visual aspects of which links is being chosen. 
 
+[Life Of A New Coder.webm](https://user-images.githubusercontent.com/113325442/199603575-0fdd8877-315b-48e9-8d29-13e7829deecb.webm)
 
-Project images also have a hover affect, giving the images a aesthetic appeal with the knowledge of what image is being chosen. 
+
+Project images also have a hover affect, giving the images a aesthetic appeal with the knowledge of what image is being chosen. The links will navigate the user to the projects webpage.
 
 
 A contact form can be found for future employers or developers looking ot collaborate with a finish of the submit button matching the webpage theme.
