@@ -19,7 +19,8 @@ Depending on what you are making, it can be a good idea to include screenshots o
 ## Usage
 Starting at the top of the page, the user has access to navigation links. These links will help you to quickly maneuver to the topic you would like to view. The navigation links has hover affect for the users visual aspects of which links is being chosen. 
 
-<iframe src="https://drive.google.com/file/d/1N2M70zLpqnOTR35FkELxmWz1c1sZQS9q/preview" width="640" height="480"></iframe>
+[Life Of A New Coder.webm](https://user-images.githubusercontent.com/113325442/199603575-0fdd8877-315b-48e9-8d29-13e7829deecb.webm)
+
 
 Project images also have a hover affect, giving the images a aesthetic appeal with the knowledge of what image is being chosen. 
 
