@@ -39,6 +39,7 @@ A contact form can be found for future employers or developers looking to collab
 
 More navigation links at the bottom of page, which links to the developers Github and Linkedin profiles.
 
+[Life Of A New Coder Profile Links.webm](https://user-images.githubusercontent.com/113325442/199650609-38f5bb56-c6e1-4c66-a9a0-6a4c9f4696e9.webm)
 
 
 ## Support
