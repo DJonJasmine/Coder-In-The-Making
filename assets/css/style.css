@@ -9,6 +9,7 @@
   }
   body {
       background-color: black
+      
   }
   
   main {
@@ -86,17 +87,6 @@
         );
   }
   
-  .section-titles {
-    flex: 1;
-    color: white;
-    word-spacing: 5px;
-    letter-spacing: 3px;
-    margin:15px;
-    margin-top: 100px;
-    letter-spacing: 10px;
-  }
-  
-  
   .header {
       padding: 20px;
       font-family: 'Times New Roman', serif;
@@ -137,6 +127,21 @@
   .header nav ul li {
       display: inline-block;
       margin: 50px;
+  }
+
+  .me {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+  }
+
+  .section-titles {
+    flex: 1;
+    color: white;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    margin:15px;
+    margin-top: 100px;
+    letter-spacing: 10px;
   }
   
   .project-img {
@@ -284,11 +289,7 @@
           margin-left: 45px;
         }
 
-        .nav-links {
-          font-size: 14px;
-          display: inline-flex
-          
-        }
+       
 
         .section-titles {
           display: flex;
