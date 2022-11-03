@@ -40,9 +40,9 @@
   }
   
   img {
-    width: 300px;
-    text-align: center;
-    padding: 30px;
+   
+   width: 400px;
+   padding: 30px;
   }
   
   h3 {
@@ -212,6 +212,12 @@ height: 400px;
     display: flex;
     justify-content: center;
   }
+
+  #first-project {
+    display: block;
+    width: fit-content;
+    ;
+  }
   
   
    /*tablets*/
@@ -251,10 +257,18 @@ height: 400px;
   
     .section-titles {
       font-size: 24px;
-
-  
     }
 
+    .flex-container {
+      display: block;
+      flex-direction: column;
+    }
+  .me {
+    margin: 0%;
+    text-align: center;
+    height: auto;
+    width: 300px;
+  }
     .user-info {
       border: 1px solid white;
       box-sizing: border-box;
