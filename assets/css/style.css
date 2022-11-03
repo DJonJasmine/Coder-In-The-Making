@@ -335,6 +335,23 @@ height: 400px;
           text-align: center;
           margin-right: 45;
         }
+        .project-img {
+          opacity: 50%;
+          filter: grayscale(100%);
+          -webkit-filter: grayscale(100%);
+        }
+        
+        .project-img:hover {
+          opacity: 100%;
+          transition: opacity 1s;
+          filter: none;
+          -webkit-filter: grayscale(0);
+        }
+      
+        .project-img:hover::after {
+          opacity: 100%;
+          transition: opacity ;
+        }      
         
         .contact-me {
           display: flex;
