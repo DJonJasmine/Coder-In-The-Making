@@ -328,6 +328,11 @@ height: 400px;
           
         }
 
+        img {
+          width: 400px;
+          padding: 30px;
+         }
+
         input {
           margin-top: 15px;
           margin-bottom: 30px;
@@ -347,18 +352,11 @@ height: 400px;
         }
 
         .me {
-          margin: 25px;
+          margin: 15px;
           height: auto;
           width: 300px;
-          padding: 100px;
        }
 
-        .project-1 {
-          display: block;
-          padding-left: 50px;
-          height: auto;
-          width: 450px;
-        }
   
         .contact-me {
           display: flex;
