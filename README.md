@@ -43,10 +43,12 @@ More navigation links at the bottom of page, which links to the developers Githu
 
 
 ## Support
+
 If you come across a bug or just have any feedback, support can be contacted at DJonHarrison94@gmail.com!
 
 
 ## License
+
 MIT License
 
 Copyright (c) 2022 DJonJasmine
